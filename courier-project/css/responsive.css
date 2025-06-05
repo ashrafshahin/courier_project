@@ -1,0 +1,565 @@
+@media (min-width: 320px) and (max-width: 575px) 
+{ 
+#banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+#banner .banner-left h1 {
+    font-size: 25px;
+    width: 320px;
+}
+ #banner .banner-right img {
+    width: 100%;
+    margin-top: 10px;
+}
+#banner .banner-left p {
+    font-size: 16px;
+    width: 320px;
+    
+}
+#banner .banner-left .getbtn {
+    margin-top: 10px;
+}
+#banner .banner-left .getbtn a {
+    font-size: 16px;
+    padding: 0px 0px 0px 0px;
+}
+svg:not(:host).svg-inline--fa, svg:not(:root).svg-inline--fa {
+    
+    padding: 0px;
+}
+#services {
+    padding-bottom: 50px;
+    
+}
+
+#services .service-one {
+    
+    margin-bottom: 20px;
+}
+#services .services-tittle h3 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+#review {
+    padding-bottom: 50px;
+    
+}
+#review h3{
+    margin-bottom: 60px;
+}
+#video {
+    padding-bottom: 49px;
+    
+}
+#video .video-details {
+    padding-top: 20px;
+    
+}
+#video .video-details img {
+    width: 15%;
+    
+}
+#video .video-details .card-title {
+    font-size: 12px;
+    margin-bottom: 0px; 
+    margin-top: 0px; 
+    line-height: 25px;
+}
+#video .video-details .card-text {
+    font-size: 11px;
+    width: 250px;
+    
+    
+}
+#testimonial {
+    padding-bottom: 50px;
+    
+}
+#testimonial .testimonial-tittle img {
+    margin-right: 0px;
+    width: 20%;
+}
+#testimonial .testimonial-tittle h2 {
+    font-size: 20px;
+    width: 150px;
+}
+#testimonial .testimonial-tittle h3 {
+    
+    font-size: 25px;
+    
+    line-height: 88%;
+    
+    width: 290px;
+   
+}
+#testimonial .testimonial-details p {
+    width: 225px;
+    font-size: 12px;
+}
+#testimonial .name-details .stars {
+    
+    margin-right: 0px;
+}
+#testimonial .testimonial-details h5 {   
+    font-size: 12px; 
+    width: 130px;
+}
+#testimonial .testimonial-details .name h6 { 
+    font-size: 12px;
+    width: 130px;
+}
+#testimonial .name-details .stars {
+    width: 33px;   
+}
+#testimonial .testimonial-details {
+    padding: 20px 0px 20px 12px;
+    border-radius: 16px;
+    margin-top: 38px;
+}
+#request{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#request .request-left img{
+    width: 100%;
+}
+#request .request-left h2 {
+    
+    font-size: 25px;
+    
+    text-align: center;
+}
+#request .request-left h3 {
+    
+    font-size: 17px;
+    
+    line-height: 100%;
+    
+    width: 300px;
+    
+}
+#request .request-left h4 {
+    
+    font-size: 20px;
+    font-weight: 600px;
+    
+    width: 267px;
+    margin-bottom: 20px;
+}
+#request .request-right button {
+    padding: 10px 100px 10px 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 30px;
+}
+#find {
+    padding-bottom: 50px;
+    
+}
+#find .contact {
+    margin-left: 25px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+#find .contact svg{
+    margin-right: 5px;
+}
+#find h3 {
+    font-size: 20px;
+    width: 300px;
+    margin-top: 13px;
+    margin-bottom: 15px; 
+    margin-top: 35px;  
+}
+#find .contact h3 {
+    font-size: 20px;
+    width: 300px;
+    margin-top: 13px;
+    margin-bottom: 15px; 
+    margin-top: 35px;  
+}
+#find .callbtn button {
+    padding: 0px 100px 0px 100px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-top: 0px;
+    
+}
+#find .card{
+    margin-bottom: 20px;
+}
+#footer {
+    
+    padding-left: 60px;
+}
+#copyright p {
+    font-size: 14px;
+}
+#copyright a {
+    font-size: 14px;
+}
+#get h2 {
+    font-size: 30px;
+    
+}
+#get h4 {
+    
+    font-size: 12px;
+    
+    width: 300px;
+}
+#get .subscribe p {
+    
+    font-size: 12px;
+    font-weight: bold;
+    
+    padding: 0px 100px 1px 8px;
+    
+}
+#get .subscribe a {
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 0px;
+}
+ }
+
+
+/* ==== max 575 css done === */
+
+@media (min-width: 576px) and (max-width: 775px) 
+{ 
+
+#banner{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#services {
+    padding-bottom: 50px;
+}
+#review{
+    padding-bottom: 50px;
+}
+#video{
+    padding-bottom: 50px;
+}
+#testimonial{
+    padding-bottom: 50px;
+}
+#find{
+    padding-bottom: 50px;
+}
+#request{
+    padding-bottom: 50px;
+}
+#get{
+    padding-bottom: 50px;
+}
+
+#banner .banner-right img {
+    width: 100%;
+}
+#services .service-one {
+    
+    margin-bottom: 20px;
+}
+#review h3{
+    margin-bottom: 60px;
+}
+#video .video-details {
+    padding-top: 20px;
+    
+}
+#video .video-details .card-title {
+    font-size: 25px;
+    margin-bottom: 0px; 
+    margin-top: 0px; 
+}
+#video .video-details .card-text {
+    
+    font-size: 17px;
+    
+    width: 420px;
+    
+}
+#testimonial .testimonial-tittle img {
+    margin-right: 0px;
+}
+#testimonial .testimonial-details p {
+    
+    width: 450px;
+}
+#request .request-left h2 {
+    
+    font-size: 25px;
+    
+    text-align: center;
+}
+#request .request-left h3 {
+    text-align: center;
+    font-size: 20px;
+}
+#request .request-left h4 {
+    
+    font-size: 20px;
+    font-weight: 600px;
+    
+    width: 267px;
+    margin-bottom: 20px;
+}
+#find .card{
+    margin-bottom: 20px;
+}
+#footer {
+    
+    padding-left: 100px;
+}
+#copyright p {
+    font-size: 14px;
+}
+#copyright a {
+    font-size: 14px;
+}
+ }
+
+ /* ====== 775px end ===== */
+
+@media (min-width: 776px) and (max-width: 991px) 
+{ 
+
+#banner{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#services {
+    padding-bottom: 50px;
+}
+#review{
+    padding-bottom: 50px;
+}
+#video{
+    padding-bottom: 50px;
+}
+#testimonial{
+    padding-bottom: 50px;
+}
+#find{
+    padding-bottom: 50px;
+}
+#request{
+    padding-bottom: 50px;
+}
+#get{
+    padding-bottom: 50px;
+}
+
+#banner .banner-right img {
+    width: 100%;
+}
+#services .service-one {
+    
+    margin-bottom: 20px;
+}
+#review h3{
+    margin-bottom: 60px;
+}
+#video .video-details {
+    padding-top: 20px;
+    
+}
+#video .video-details .card-title {
+    font-size: 25px;
+    margin-bottom: 0px; 
+    margin-top: 0px; 
+}
+#video .video-details .card-text {
+    
+    font-size: 17px;
+    
+    width: 420px;
+    
+}
+#testimonial .testimonial-tittle img {
+    margin-right: 0px;
+}
+#testimonial .testimonial-details p {
+    
+    width: 450px;
+}
+#request .request-left h2 {
+    
+    font-size: 25px;
+    
+    text-align: center;
+}
+#request .request-left h3 {
+    text-align: center;
+    font-size: 20px;
+}
+#request .request-left h4 {
+    
+    font-size: 20px;
+    font-weight: 600px;
+    
+    width: 267px;
+    margin-bottom: 20px;
+}
+#find .card{
+    margin-bottom: 20px;
+}
+#footer {
+    
+    padding-left: 100px;
+}
+#copyright p {
+    font-size: 14px;
+}
+#copyright a {
+    font-size: 14px;
+}
+ }
+
+
+ /* ==== max 991 css done === */
+ 
+@media (min-width: 992px) and (max-width: 1199px) 
+{ 
+
+#banner{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#services {
+    padding-bottom: 50px;
+}
+#review{
+    padding-bottom: 50px;
+}
+#video{
+    padding-bottom: 50px;
+}
+#testimonial{
+    padding-bottom: 50px;
+}
+#find{
+    padding-bottom: 50px;
+}
+#request{
+    padding-bottom: 50px;
+}
+#get{
+    padding-bottom: 50px;
+}
+
+#banner .banner-right img {
+    width: 140%;
+}
+#services .service-one {
+    
+    margin-bottom: 20px;
+}
+#review h3{
+    margin-bottom: 60px;
+}
+#video .video-details {
+    padding-top: 20px;
+    
+}
+#video .video-details .card-title {
+    font-size: 30px;
+    margin-bottom: 0px; 
+    margin-top: 0px; 
+}
+#video .video-details .card-text {
+    
+    font-size: 25px;
+    
+    width: 500px;
+    
+}
+#testimonial .testimonial-tittle img {
+    margin-right: 0px;
+}
+#testimonial .testimonial-details p {
+    
+    width: 600px;
+}
+#request .request-left h2 {
+    
+    font-size: 25px;
+    
+    text-align: center;
+}
+#request .request-left h3 {
+    /* text-align: center; */
+    font-size: 24px;
+}
+#request .request-left h4 {
+    
+    font-size: 20px;
+    font-weight: 600px;
+    
+    width: 315px;
+    margin-bottom: 20px;
+}
+#request .request-right a {
+    
+    font-size: 18px;
+    
+}
+#find .card{
+    margin-bottom: 20px;
+}
+#find .contact h3 {
+    
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#find .callbtn button {
+    padding: 10px 100px 10px 100px;
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 40px;
+    
+}
+#get .subscribe p {
+    
+    font-size: 20px;
+    
+    line-height: 125%;
+    
+    padding: 10px 100px 10px 24px;
+    
+}
+#get h2 {
+    
+    font-size: 30px;
+    
+}
+#get h4 {
+    
+    font-size: 20px;
+    width: 400px;
+}
+#footer {
+    
+    padding-left: 100px;
+}
+#copyright p {
+    font-size: 18px;
+}
+#copyright a {
+    font-size: 18px;
+}
+#footer h3 {
+    
+    font-size: 16px;
+    
+}
+ }
+
+
+ /* ==== max 1199 css done === */
+ 

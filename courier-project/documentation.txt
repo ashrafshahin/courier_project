@@ -1,0 +1,23 @@
+For aligning within a flexbox div or row...
+
+ml-auto is now ms-auto
+mr-auto is now me-auto
+For text align or floats..
+
+text-left is now text-start
+text-right is now text-end
+float-left is now float-start
+float-right is now float-end
+
+
+d-flex 
+
+
+mx-auto
+[ column items  CENTER everything ]
+
+
+
+
+ul style -- list-group 
+[for making list align ]
